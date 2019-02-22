@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home.vue render home 1`] = `
+<div
+  class="home"
+>
+  <h1
+    class="is-size-2 has-text-weight-bold is-hidden-mobile"
+  >
+    ADD YOUR SKILLS
+  </h1>
+   
+  <div
+    class="columns"
+  >
+    <skillsselector-stub
+      class="column home__skills-selector"
+    />
+  </div>
+   
+  <div
+    class="columns is-multiline home__skills"
+  />
+</div>
+`;

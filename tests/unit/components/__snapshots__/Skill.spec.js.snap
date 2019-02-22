@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Skill.vue render skill 1`] = `
+<div
+  class="columns is-mobile is-full-mobile skill"
+>
+  <div
+    class="column is-one-fifth has-text-centered skill__id skill__id_is_top"
+  >
+    <span
+      class="is-6"
+    >
+      1
+    </span>
+  </div>
+   
+  <div
+    class="column"
+  >
+    <p
+      class="is-2 has-text-weight-bold"
+    >
+      Skill Name
+    </p>
+     
+    <span
+      class="is-4 has-text-weight-normal"
+    >
+      Skill Exp
+    </span>
+  </div>
+   
+  <div
+    class="column is-one-fifth has-text-centered skill__delete"
+  >
+    <span
+      class="is-6"
+      style="display: none;"
+    >
+      <i
+        class="fa fa-times"
+      />
+    </span>
+  </div>
+</div>
+`;
