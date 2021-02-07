@@ -14,7 +14,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.15",
     "@fortawesome/free-solid-svg-icons": "^5.7.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bulma": "^0.7.4",
     "normalize.css": "^8.0.1",
     "register-service-worker": "^1.5.2",
